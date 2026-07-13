@@ -2,14 +2,13 @@
 
 # 👋 Hi, I'm Noor Ahamad
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;Python+Developer;Machine+Learning+Enthusiast;Building+Modern+Web+Applications;Always+Learning+Something+New+🚀" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Python+Developer;Machine+Learning+Enthusiast;Building+Modern+Web+Applications;Always+Learning+New+Things🚀" />
 
-<p>
-  <a href="https://github.com/Noorahmedks-2103">
-    <img src="https://img.shields.io/github/followers/Noorahmedks-2103?style=for-the-badge&logo=github&label=Followers"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=Noorahmedks-2103&style=for-the-badge&color=0e75b6" alt="Profile Views"/>
-</p>
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=Noorahmedks-2103&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/Noorahmedks-2103?logo=github&style=for-the-badge"/>
 
 </div>
 
@@ -19,24 +18,24 @@
 
 💻 Passionate **Full Stack Developer** and **Computer Science Engineering Student**
 
-🌱 Currently learning
+🌱 Currently Learning
 
-* React.js
-* Node.js
-* Express.js
-* MongoDB
-* AWS
+- React.js
+- Node.js
+- Express.js
+- MongoDB
+- AWS
 
-🤖 Interested in
+🤖 Interested In
 
-* Artificial Intelligence
-* Machine Learning
-* Modern Web Development
-* UI/UX Design
+- Artificial Intelligence
+- Machine Learning
+- Modern Web Development
+- UI/UX
 
 🎯 Goal
 
-Build impactful software that solves real-world problems while continuously improving my development skills.
+Build impactful software that solves real-world problems.
 
 ---
 
@@ -53,33 +52,35 @@ Build impactful software that solves real-world problems while continuously impr
 </a>
 
 <a href="https://Noorahmedks-2103.github.io/">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefoxbrowser"/>
+<img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=firefoxbrowser"/>
 </a>
 
 <a href="mailto:nkurnipalli34@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
-# 🛠️ Tech Stack
+# 💻 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,python,git,github,vscode,postman,figma&perline=7"/>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,python,git,github,vscode,postman,figma,aws&perline=5"/>
+
 </p>
 
 ---
 
 # 🚀 Featured Projects
 
-| 🚀 Project           | Description                                 | Live         |
-| -------------------- | ------------------------------------------- | ------------ |
-| 🍔 Swiggy Clone      | Responsive Swiggy-inspired food ordering UI | 🌐 Available |
-| 🤖 NoorAI Chatbot    | AI-powered chatbot interface                | 🌐 Available |
-| 💪 FitBot            | Fitness and health web application          | 🌐 Available |
-| 🌍 Portfolio Website | Personal developer portfolio                | 🌐 Available |
+| Project | Description |
+|----------|-------------|
+| 🍔 **Swiggy Clone** | Responsive Swiggy UI Clone |
+| 🤖 **NoorAI Chatbot** | AI Powered Chatbot |
+| 💪 **FitBot** | Fitness Tracking Website |
+| 🌐 **Portfolio Website** | Personal Portfolio |
 
 ---
 
@@ -87,28 +88,60 @@ Build impactful software that solves real-world problems while continuously impr
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Noorahmedks-2103&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Noorahmedks-2103&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noorahmedks-2103&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noorahmedks-2103&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Noorahmedks-2103&theme=github-dark-blue&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Noorahmedks-2103&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 💡 Developer Quote
+# 📈 Contribution Graph
 
-> *"Great software isn't just written—it is thoughtfully designed, carefully built, and continuously improved."*
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Noorahmedks-2103&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Noorahmedks-2103&theme=algolia&margin-w=15"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Noorahmedks-2103/Noorahmedks-2103/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+# 💬 Quote
+
+> *"Great software isn't just written — it's thoughtfully designed."*
+
+---
 
 <div align="center">
 
 ### ⭐ Thanks for visiting my profile!
 
-*"Keep learning. Keep building. Keep improving."* 🚀
+Keep Learning • Keep Building • Keep Growing 🚀
 
 </div>
