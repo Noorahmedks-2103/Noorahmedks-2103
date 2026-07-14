@@ -24,7 +24,7 @@ Frontend Developer • Python Developer • Data Analytics Enthusiast
 
 # 🚀 About Me
 
-🎓 Final Year Computer Science Engineering Student
+🎓 Recently Graduated Computer Science Engineering Student
 
 💻 Passionate Frontend Developer with a strong foundation in Python and MySQL.
 
