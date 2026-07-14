@@ -127,7 +127,7 @@ Responsive Swiggy-inspired food ordering interface.
 </a>
 <!-- 
 <a href="YOUR_LIVE_DEMO_HERE"> -->
-<img src="https://img.shields.io/badge/Live_Demo-success?style=for-the-badge"/>
+<!-- <img src="https://img.shields.io/badge/Live_Demo-success?style=for-the-badge"/> -->
 </a>
 
 </p>
@@ -240,7 +240,7 @@ Personal portfolio website.
 
 ---
 
-<!-- # 🐍 Contribution Snake
+ 🐍 Contribution Snake
 
 > Uncomment after your GitHub Action is working.
 
