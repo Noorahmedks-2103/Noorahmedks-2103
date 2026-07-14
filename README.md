@@ -9,7 +9,7 @@ Frontend Developer • Python Developer • Data Analytics Enthusiast
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Frontend+Developer;Python+Developer;Data+Analytics+Enthusiast;Building+Modern+Web+Applications;Always+Learning+New+Things🚀" />
+<!-- <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Frontend+Developer;Python+Developer;Data+Analytics+Enthusiast;Building+Modern+Web+Applications;Always+Learning+New+Things🚀" /> -->
 </p>
 
 <p align="center">
@@ -125,8 +125,8 @@ Responsive Swiggy-inspired food ordering interface.
 <a href="https://github.com/Noorahmedks-2103/Swiggy_clone">
 <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github"/>
 </a>
-
-<a href="YOUR_LIVE_DEMO_HERE">
+<!-- 
+<a href="YOUR_LIVE_DEMO_HERE"> -->
 <img src="https://img.shields.io/badge/Live_Demo-success?style=for-the-badge"/>
 </a>
 
@@ -178,7 +178,7 @@ Fitness tracking web application.
 
 <h3 align="center">🌐 Portfolio Website</h3>
 
-<img src="./assets/portfolio.png"/>
+<img src="./assets/portofolio.png"/>
 
 Personal portfolio website.
 
