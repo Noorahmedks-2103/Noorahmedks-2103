@@ -206,9 +206,9 @@ Personal portfolio website.
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Noorahmedks-2103&show_icons=true&theme=tokyonight&hide_border=true"/>
+<!-- <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Noorahmedks-2103&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noorahmedks-2103&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noorahmedks-2103&layout=compact&theme=tokyonight&hide_border=true"/> -->
 
 </p>
 
@@ -230,21 +230,21 @@ Personal portfolio website.
 
 ---
 
-# 🏆 GitHub Trophies
+<!-- # 🏆 GitHub Trophies
 
 <p align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=Noorahmedks-2103&theme=algolia&margin-w=10"/>
 
-</p>
+</p> -->
 
 ---
 
-# 🐍 Contribution Snake
+<!-- # 🐍 Contribution Snake
 
 > Uncomment after your GitHub Action is working.
 
-```md
+```md -->
 <!--
 <p align="center">
 
